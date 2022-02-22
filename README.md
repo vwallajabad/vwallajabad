@@ -1,10 +1,10 @@
 ### Hi there 👋
-##  Welcome to my github.
+## Welcome to my github.
   <hr>
-##  Amount of visitors: <img src="https://profile-counter.glitch.me/vwallajabad/count.svg"/>
+## Amount of visitors: <img src="https://profile-counter.glitch.me/vwallajabad/count.svg"/>
   <br>
   <hr>
-##  Github Grade: <img src="https://github-readme-stats.vercel.app/api?username=vwallajabad&count_private=true&bg_color=10,ffffff,00ffb3&title_color=00a2ff&text_color=00a2ff"/>
+## Github Grade: <img src="https://github-readme-stats.vercel.app/api?username=vwallajabad&count_private=true&bg_color=10,ffffff,00ffb3&title_color=00a2ff&text_color=00a2ff"/>
   <br>
   <hr>
 
