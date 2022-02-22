@@ -3,11 +3,10 @@
   <hr>
   
 ## Amount of visitors: <img src="https://profile-counter.glitch.me/vwallajabad/count.svg"/>
-  <br>
-  <hr>
+  <br>  <hr>
+
 ## Github Grade: <img src="https://github-readme-stats.vercel.app/api?username=vwallajabad&count_private=true&bg_color=10,ffffff,00ffb3&title_color=00a2ff&text_color=00a2ff"/>
-  <br>
-  <hr>
+  <br>  <hr>
 
 - 🌱 I’m currently learning [Unity](https://unity.com).
 - 👯 I’m looking to collaborate on Nodejs, javascript and Python packages that need help. I also try to find bugs in packages.
