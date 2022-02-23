@@ -1,9 +1,4 @@
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
-
+<html>
 ### Hi there 👋
 ## Welcome to my github.
   <hr>
@@ -47,3 +42,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vwallajabad@gmail.com
 - ⚡ Fun fact: ...
 -->
+</html>
