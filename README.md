@@ -1,3 +1,8 @@
+<style>
+  body{
+    background-color: white;
+  }
+</style>
 ### Hi there 👋
 ## Welcome to my github.
   <hr>
