@@ -27,7 +27,9 @@ Currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons
 - 👯 I’m looking to collaborate on Nodejs, javascript and Python packages that need help. I also try to find bugs in packages.
 - 💬 Ask me about how ML will change the world. (AI is always smarter than anyone in the world)
 - 📫 How to reach me: vwallajabad@gmail.com
-- ⚡ Fun fact: Open source projects will always be safer and more successful because they are transparent and is available to add features from the community. Open source devs also patch up bugs which help projects become safer for the community. 
+- ⚡ Fun fact: Open source projects will always be safer and more successful because they are transparent and is available to add features from the community. Open source devs also patch up bugs which help projects become safer for the community.
+- My favorite text editor: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" />
+
 <!--
 **vwallajabad/vwallajabad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
