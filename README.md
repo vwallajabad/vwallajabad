@@ -1,8 +1,9 @@
 <style>
-  body{
-    background-color: white;
-  }
+r { color: Red }
+o { color: Orange }
+g { color: Green }
 </style>
+
 ### Hi there 👋
 ## Welcome to my github.
   <hr>
