@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vwallajabad&count_private=true&bg_color=10,ffffff,00ffb3&title_color=00a2ff&text_color=00a2ff"/>
   <br>  <hr>
 
-Languages and development tools I know:
+Some languages and tools I know:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="10%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="10%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="10%"/>
