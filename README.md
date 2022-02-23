@@ -1,5 +1,3 @@
-
-![bg](red)
 ### Hi there 👋
 ## Welcome to my github.
   <hr>
