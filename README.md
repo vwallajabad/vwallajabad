@@ -5,12 +5,12 @@
 ## Amount of visitors: <img src="https://profile-counter.glitch.me/vwallajabad/count.svg"/>
   <br>  <hr>
 
-![vwallajabad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vwallajabad&theme=dark&hide_border=false)<br>
+![vwallajabad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vwallajabad&theme=dark&hide_border=false) <br>
 ![vwallajabad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vwallajabad&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 Some languages and tools I know:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="5%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="5%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="5%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" width="5%"/>
