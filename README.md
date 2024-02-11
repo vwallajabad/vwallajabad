@@ -10,7 +10,6 @@
 
 Some languages and tools I know:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="5%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="5%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="5%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" width="5%"/>
@@ -24,7 +23,7 @@ Some languages and tools I know:
 Currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="5%"/>
 
 
-- 🌱 I’m currently learning [Java](https://unity.com](https://www.java.com/en/).
+- 🌱 I’m currently learning [Java](https://www.java.com/en/).
 - 👯 I’m looking to collaborate on hachathons and other projects.
 - ⚡ Fun fact: Open source projects will always be safer and more successful because they are transparent and is available to add features from the community. Open source devs also patch up bugs which help projects become safer for the community.
 - My favorite text editor: <a href="[https://code.visualstudio.com/">Visual Studio Code</a>
